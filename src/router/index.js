@@ -3,7 +3,7 @@ import BiodataPage from '../views/biodata_page.vue'  // Mengimpor komponen Bioda
 
 const routes = [
   {
-    path: '/',
+    path: '/biodata',
     name: 'Home',
     component: BiodataPage  // Setel komponen BiodataPage sebagai komponen di root path
   }
